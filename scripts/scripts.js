@@ -13,6 +13,7 @@ else {
 
 }
 
+const relax = document.querySelector('#relax');
 
 relax.onmouseover = () => {
   relax.setAttribute("src","images/and_breathe.jpg");
