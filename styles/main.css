@@ -1,13 +1,15 @@
-h1 {
+h1, h2 {
     font-family: "Raleway", "Helvetica", "Verdana", sans-serif;
-}
-h2 {
-    font-family: "Raleway", "Helvetica", "Verdana", sans-serif;
-    padding-bottom: 10px;
+    background-color: #FFFF05;
+    padding: 15px;
 }
 
 p {
     font-family: "Merriweather", "Times New Roman", serif;
     line-height: 33px;
-    padding: 15px 15px 15px 0px;
+    padding: 15px;
+}
+
+img {
+  padding-left: 15px;
 }
